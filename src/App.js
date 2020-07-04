@@ -6,7 +6,6 @@ import ArticalList from './pages/ArticalList';
 import AboutPage from './pages/AbouPage';
 import ArticalPage from './pages/ArticalPage';
 
-
 class App extends React.Component
  {
    render(){
